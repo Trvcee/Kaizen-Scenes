@@ -1,0 +1,149 @@
+{
+	"items":
+	[
+		{
+		"id":10313,
+		"type":3,
+		"stage":2,
+		"desc":"Lift was slowed when reaching the top",
+		"triggeredText":"Lift was not slowed down when reaching the top",
+		"missedText":"Lift was slowed when reaching the top"
+		},
+		{
+		"id":10202,
+		"type":5,
+		"stage":1,
+		"desc":"Informed Duty CC, SOM, Duty EL Team, Maintenance Contractor",
+		"triggeredText":"Informed Duty CC, SOM, Duty EL Team, Maintenance Contractor",
+		"missedText":"Did not inform the Duty CC, SOM, Duty EL Team, Maintenance Contractor"
+		},
+		{
+		"id":10203,
+		"type":5,
+		"stage":1,
+		"desc":"Informed station colleagues",
+		"triggeredText":"Informed fellow station colleagues",
+		"missedText":"Failed to inform fellow station colleagues"
+		},
+		{
+		"id":10204,
+		"type":5,
+		"stage":1,
+		"desc":"Retrieved all necessary items",
+		"triggeredText":"Retrieved Lift Door Opener, Screwdriver, Walkie-Talkie, Barricade, Keys and Travel Vouchers",
+		"missedText":"Missed one of the mentioned items"
+		},
+		{
+		"id":10301,
+		"type":5,
+		"stage":2,
+		"desc":"Barricades placed in front of lift doors on all floors",
+		"triggeredText":"Barricades were placed in front of lift doors on all floors",
+		"missedText":"Barricades not placed on all floors"
+		},
+		{
+		"id":10402,
+		"type":5,
+		"stage":2,
+		"desc":"Informed trapped passengers before rescue",
+		"triggeredText":"Informed passengers that rescue was starting",
+		"missedText":"Did not inform passengers that rescue was starting"
+		},
+		{
+		"id":10316,
+		"type":4,
+		"stage":2,
+		"desc":"Switched OFF power before moving lift",
+		"triggeredText":"CRITICAL FAILURE: Did not switch off power before moving lift",
+		"missedText":"Power switched OFF before moving lift"
+		},
+		{
+		"id":10311,
+		"type":3,
+		"stage":2,
+		"desc":"Buzzer switched ON before moving lift",
+		"triggeredText":"Buzzer was switched OFF before moving the lift",
+		"missedText":"Buzzer was switched ON before moving the lift"
+		},
+		{
+		"id":10305,
+		"type":5,
+		"stage":2,
+		"desc":"Pulled Brake Release Lever until lift is levelled",
+		"triggeredText":"Lift was levelled by pulling the Brake Release Lever",
+		"missedText":"Lift was not aligned with any floors"
+		},
+		{
+		"id":10317,
+		"type":3,
+		"stage":3,
+		"desc":"Buzzer switched OFF before opening lift doors",
+		"triggeredText":"Buzzer was not switched OFF before lift doors were opened",
+		"missedText":"Buzzer was switched OFF before lift doors were opened"
+		},
+		{
+		"id":10307,
+		"type":5,
+		"stage":3,
+		"desc":"Unlocked lift doors with Lift Opener",
+		"triggeredText":"Successfully unlocked lift doors with Lift Opener",
+		"missedText":"Lift doors not unlocked"
+		},
+		{
+		"id":10308,
+		"type":5,
+		"stage":3,
+		"desc":"Lift doors opened using hands",
+		"triggeredText":"Lift doors successfully opened",
+		"missedText":"Lift doors not opened"
+		},
+		{
+		"id":10312,
+		"type":2,
+		"stage":2,
+		"desc":"Screwdriver used on Brake Release Lever before usage",
+		"triggeredText":"Screwdriver was not used on the Brake Release Lever before using it",
+		"missedText":"Screwdriver was successfully used on Brake Release Lever before usage"
+		},
+		{
+		"id":10318,
+		"type":2,
+		"stage":2,
+		"desc":"LOTO tag placed on power switch to cover it",
+		"triggeredText":"Did not place LOTO tag to cover power switch",
+		"missedText":"LOTO tag was placed to cover power switch"
+		},
+		{
+		"id":10319,
+		"type":5,
+		"stage":3,
+		"desc":"Unlocked Doors with Allen Key",
+		"triggeredText":"Allen key was used to open lift doors",
+		"missedText":"Lift doors not opened with Allen key"
+		},
+		{
+		"id":10401,
+		"type":5,
+		"stage":2,
+		"desc":"Informed EL Team/Maintenance Contractor of a balanced load situation",
+		"triggeredText":"Successfully informed EL Team/Maintenance Contractor of the balanced load situation",
+		"missedText":"Did not inform EL Team/Maintenance Contractor of balanced load situation"
+		},
+		{
+		"id":10405,
+		"type":3,
+		"stage":3,
+		"desc":"Used door opener after lift was leveled",
+		"triggeredText":"Door opener was used BEFORE lift was levelled",
+		"missedText":"Door opener was used AFTER lift was levelled"
+		},
+		{
+		"id":10406,
+		"type":4,
+		"stage":2,
+		"desc":"Turning handle was helded before releasing brake",
+		"triggeredText":"CRITICAL FAILURE: Lift was left to move freely",
+		"missedText":"Ensured turning handle was held when brake was released"
+		}
+	]
+}

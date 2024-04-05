@@ -1,0 +1,6 @@
+1^-5^Demerit from checking hints
+2^-20^Level 2 Demerit (Minor)
+3^-50^Level 3 Demerit (Major)
+4^0^Level 4 Demerit (Instant Failure)
+5^20^Level 1 Merit (Minor)
+6^50^Level 2 Merit (Major)

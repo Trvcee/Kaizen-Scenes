@@ -1,0 +1,110 @@
+using BNG;
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Events;
+
+public class AnimationController : MonoBehaviour
+{
+    private Animator thisAnimator;
+    private Collider thisCollider;
+
+    private bool[] Conditions;
+    private bool[] Invoked;
+
+
+ 
+
+    public bool playOnAwake;
+    private int numberOfSeperateEvents;
+
+    public UnityEvent[] Animations;
+
+    public bool isPlaying;
+
+    public UnityEvent[] eventsAfterAnimationStopsPlaying;
+    // Start is called before the first frame update
+    void Start()
+    {
+        numberOfSeperateEvents = Animations.Length;
+        Conditions = new bool[numberOfSeperateEvents];
+        Invoked = new bool[numberOfSeperateEvents];
+        thisAnimator = GetComponent<Animator>();
+        thisCollider = GetComponent<Collider>();
+    }
+
+    private void LateUpdate()
+    {
+        InvokeFunctionAfterAnimationStops();
+
+    }
+    private void Update()
+    {
+        if (playOnAwake)
+        {
+            Animations[0].Invoke();
+            playOnAwake = false;
+            Invoked[0] = true;
+        }
+
+    }
+
+
+    bool AnimationIsPlaying() => thisAnimator.GetCurrentAnimatorStateInfo(0).normalizedTime > 1.0f ? isPlaying = false : isPlaying = true;
+
+
+    public void PlayAnimation()
+    {
+
+        for (int i = 0; i < numberOfSeperateEvents; i++)
+        {
+
+
+            if (!AnimationIsPlaying() && Conditions[i])
+            {
+                Animations[i].Invoke();
+                thisCollider.enabled = false;
+                Conditions[i] = false;
+                Invoked[i] = true;
+
+            }
+        }
+    }
+
+    public void InvokeFunctionAfterAnimationStops()
+    {
+        for (int i = 0; i < numberOfSeperateEvents; i++)
+        {
+            if (!AnimationIsPlaying() && Invoked[i])
+            {
+                if (eventsAfterAnimationStopsPlaying.Length > i)
+                    eventsAfterAnimationStopsPlaying[i].Invoke();
+                Invoked[i] = false;
+            }
+        }
+    }
+
+
+    public void Progresssion(int current)
+    {
+        for (int i = 0; i < numberOfSeperateEvents; i++)
+        {
+
+
+            if (current == i)
+                Conditions[i] = true;
+
+            else
+                Conditions[i] = false;
+        }
+    }
+
+    public void DisableProgression()
+    {
+        for (int i = 0; i < numberOfSeperateEvents; i++)
+        {
+            Conditions[i] = false;
+        }
+    }
+
+}

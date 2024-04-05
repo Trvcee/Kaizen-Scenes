@@ -1,0 +1,81 @@
+S
+Q1. What is the first course of action you need to perform?
+--
+S
+Q2. What information do you need to get from the passenger?
+--
+S
+Q3. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q4. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q5. How can you assure the passenger safety while performing the necessary lift rescue actions?
+--
+S
+Q6. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q7. Which SMRT units or individuals outside the station do you need to inform about the incident at this stage?
+--
+S
+Q8. Choose the correct dialogue you would use in your communication with the Chief Controller.
+--
+S
+Q9. Choose the correct dialogue you would use in your communication with the Chief Controller.
+--
+S
+Q10. Choose the correct dialogue you would use in your communication with IMDC E&L.
+--
+S
+Q11. Choose the correct dialogue you would use in your communication with IMDC E&L.
+--
+S
+Q12. Choose the correct dialogue you would use in your communication with the lift contractor.
+--
+S
+Q13. Choose the correct dialogue you would use in your communication with the station staff.
+--
+S
+Q14. Choose the correct dialogue you would use in your communication with the station staff.
+--
+S
+Q15. What do you need to check here in terms of the landing and the car doors?
+--
+S
+Q16. What is the lift location?
+--
+S
+Q17. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q18. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q19. When the doors open what should you do?
+--
+S
+Q20. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q21. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q22. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q23. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q24. Choose the correct dialogue you would use in your communication with the passenger.
+--
+S
+Q25. Can you identify whether this is a Balanced load or Unbalanced load scenario?
+--
+S
+Q26. Why?
+--
+S
+Q27. Choose the correct dialogue you would use in your communication with Duty Chief Controller.
+--

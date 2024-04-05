@@ -1,0 +1,34 @@
+10101^1^(Access Hints Demerit)
+10102^2^Example Scoring (Minor Demerit)^Warning Text Minor
+10103^3^Example Scoring (Major Demerit)^Warning Text Major
+10104^4^Example Scoring (Instant Failure)^Warning Text Failure
+10105^5^Example Scoring (Minor Merit)
+10106^6^Example Scoring (Major Merit)
+10201^5^Answered Lift Emergency Intercom Phone
+10202^5^Informed Duty CC, SOM, Duty EL Team, Maintenance Contractor
+10203^5^Informed fellow station colleagues
+10204^5^Retrieved lift door opener, screw driver, walkie-talkie, barricade, keys, travel vouchers
+10301^5^Placed barricade before lift doors
+10302^5^Informed passengers via intercom that lift rescue process is starting
+10303^5^Switched Power Main Switch OFF
+10304^5^Switched Buzzer ON
+10305^5^Pulled Brake Release Lever until lift is level
+10306^5^Switched Buzzer OFF
+10307^5^Unlocked lift doors with Lift Opener
+10308^5^Pushed lift doors open
+10311^3^Did not switch on buzzer before raising lift^Buzzer needs to be switched ON before moving lift.
+10312^2^Did not use screwdriver on brake release lever before using it^Brake Release Lever needs to be unscrewed with screwdriver before usage.
+10313^3^Did not slow lift down before reaching the top^Slow down the lift speed movement with the brake control lever before reaching the top, so passengers will not experience a shocking stop.
+10314^5^Unlocked Brake Release Lever with Screwdriver
+10315^3^Did not place barricades at all levels^Remember to place the barricades at all levels to ensure safety of other passengers.
+10316^4^CRITICAL FAILURE: Did not switch off power before moving lift^CRITICAL FAILURE: Did not switch off power before moving lift.
+10317^2^Did not switch off buzzer before opening lift doors^Buzzer needs to be switched OFF before opening lift doors.
+10318^2^Did not place LOTO tag to cover power switch^LOTO tag must cover power switch at the end of procedure.
+10319^5^Unlocked lift doors with Allen Key
+10320^5^Placed LOTO tag onto power switch
+10401^5^Informed EL Team/Maintenance Contractor of balanced load situation
+10402^3^Did not inform passengers before starting lift rescue^Passengers needs to be informed via intercom phone before starting lift rescue.
+10403^5^Raised lift with a comfortable slow speed
+10404^5^Used door opener after levelling the lift
+10405^3^Used door opener before levelling the lift^Use door opener only after levelling the lift.
+10406^4^CRITICAL FAILURE: Lift was left to move freely^CRITICAL FAILURE: Did not ensure turning handle was held before releasing the brake.

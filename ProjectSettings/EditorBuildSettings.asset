@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FYP LATEST/Scenes/Login Menu.unity
+    guid: c491d418930783b44839e92be0addad8
+  - enabled: 0
+    path: Assets/FYP LATEST/Scenes/LobbyTest.unity
+    guid: 02349bc8b35857147a37de19117e05b0
+  - enabled: 1
+    path: Assets/FYP LATEST/Scenes/Main Menu updated.unity
+    guid: a10b55632ef2d604090f5e53cf172048
+  - enabled: 0
+    path: Assets/FYP LATEST/Scenes/Main Menu.unity
+    guid: 46a88227a6ce3364d8c90376d92043da
+  - enabled: 1
+    path: Assets/FYP LATEST/Scenes/Scenario 1 (No obstruction, fixed door, learning
+      mode).unity
+    guid: d33ecabbd7958b84b997bac3b2a75815
+  - enabled: 0
+    path: Assets/FYP LATEST/Scenes/Scenario 2 (Obstruction, random door, assessment
+      mode).unity
+    guid: 5d407d6953c0dd84f8cdb5968bba7aae
+  - enabled: 0
+    path: Assets/FYP LATEST/Scenes/Scenario 3 (No obstruction, random door, assessment
+      mode).unity
+    guid: 67cd33048e4ae65419699b7baf0e9a53
+  - enabled: 1
+    path: Assets/FYP LATEST/Scenes/Tutorial Introduction.unity
+    guid: 0981ead84d076ec48b3bb9bcc1df23ac
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 0930a8db3dba4594bba1c91cf29cfae4,
+      type: 2}
+    Unity.XR.OpenVR.Settings: {fileID: 11400000, guid: 2365a07bd475dc9458951c01943a5909,
+      type: 2}
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 743b4e7ed5776f64f9c6d8870f1fc997,
+      type: 2}
+    com.unity.input.settings: {fileID: 11400000, guid: 7c0d65f8139523c47a3ac0b1587ccdf6,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5fc3fa6c7e403b14ea2c0523f872b087,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 2ae0a4a226e8d9e4aba56d1e2eb3977b,
+      type: 2}

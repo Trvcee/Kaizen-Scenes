@@ -1,0 +1,10 @@
+10202 //Informed DutyCC
+10204 //Retrieved all items
+10203 //Informed Station Colleague using radio
+10301 //Placed barricades
+10402 //Informed passengers before rescuing
+10316 //Switched off power before moving lift
+10311 //Buzzer on before moving lift
+10317 //Buzzer switched off before opening doors 
+10319 //Unlocked Doors with Allen Key
+10308 //Opened lift doors with hands

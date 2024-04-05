@@ -1,0 +1,80 @@
+0A. Rush to the lift area.
+1B. Assure passengers not to worry and that help will be provided.
+--
+0A. Ask if there is someone that they would like the staff to call on their behalf.
+1B. Ask how many passengers are trapped in the lift and if anyone needs medical assistance.
+--
+0A. "I will inform our Maintenance immediately. Please wait for them to rescue you. How many people are trapped?"
+1B. "Please stay calm. I am here to help. May I know how many people are trapped in the lift?"
+--
+0A. "Are you all OK?"
+1B. "May I know if anyone needs medical attention?"
+--
+1A. Ask passenger to stay clear of the lift doors.
+0B. Ask passenger to stay hydrated while waiting.
+--
+1A. "For your safety, please keep clear of the door. Help is on the way."
+0B. "It's best to keep clear of the door. Help is on the way."
+--
+0A. NSEWL: Duty CC, SOM, Lift Maintenance Contractor. <br>CCL: Duty CC, SOM/RSM. 
+1B. NSEWL: Duty CC, IMDC Duty Controller E&L, Lift Maintenance Contractor. <br>CCL: Duty CC, SOM/RSM and MOC controller (MCO).
+--
+1A. "Chief Controller, this is BSH station SM Rajan speaking. Lift PL01 is down, with two pax trapped in the lift."
+0B. "Chief Controller, this is BSH station SM Rajan speaking. Someone seems to be trapped in one of the lifts."
+--
+1A. "Pax do not require medical attention. We are proceeding to perform lift rescue operations."
+0B. "Pax sounded like they are doing OK. We are heading down to the lift to see how we can help out."
+--
+1A. "IMDC, this is BSH station SM Rajan speaking. Lift PL01 is down, with two pax trapped in the lift."
+0B. "IMDC, this is BSH station SM Rajan speaking. Someone seems to be trapped in one of the lifts."
+--
+1A. "Please activate the Duty E&L. Thank you."
+0B. "We need some help. Please send over your E&L guys."
+--
+1A. "Hi. This is BSH station SM Rajan speaking. We have a man trapped in lift PL01. Please activate the maintenance team."
+0B. "Hi. We need your maintenance guys to come down here at Bishan asap as the lift is not moving."
+--
+0A. "JJ please respond. Over."
+1B. "ASM1 this is SM Bishan. Over."
+--
+1A. "ASM1 please proceed to PSC. Lift PL01 is down with man trapped in lift. Proceeding to perform lift rescue. Over and out.
+0B. "ASM1, please proceed to the storeroom. Over and out."
+--
+0A. Try to pry open the lift doors.
+1B. Whether the landing and car doors are closed.
+--
+1A. Lift is stuck between B1 and level 1.
+0B. Lift is aligned exactly to level 1 landing.
+--
+1A. "Hello. I will start moving the lift. Please keep clear of the doors and hold on to the hand rail. There may be slight shaking."
+0B. "Hello. Don't worry OK? I will get you out of the lift soon. Just stay clear of the doors."
+--
+0A. Say nothing.
+1B. "Just to warn you, there may be slight jerkiness, but not to worry, this is normal. Are you ready?"
+--
+1A. Ask passenger(s) to be mindful of their step as they are exiting the lift, offer a travel voucher, a bottle of water, and ask if they are alright or need medical assistance.
+0B. Offer passenger(s) a meal voucher and an apology card.
+--
+1A. "Is everyone alright? Is there anyone who is not feeling well and needs medical attention?"
+0B. "You all look OK. Ready to come out?"
+--
+0A. "OK. You can come out now."
+1B. "OK. Please be mindful of your steps as you are coming out."
+--
+1A. "I am very sorry for the unpleasant experience. I would like to assure you that we are making the necessary arrangements for the lift to be thoroughly inspected immediately."
+0B. Say nothing.
+--
+1A. "Sir, Madam, did you notice any abnormalities while in the lift?"
+0B. "Mr., Mdm, was the lift shaking a lot?"
+--
+1A. "Once again I am very sorry for your unpleasant experience. Please accept this complimentary travel voucher from SMRT. You can use it for free travel in the Red, Green, Yellow and Brown lines and it is valid until the date of expiry shown at the back."
+0B. Say nothing.
+--
+1A. Balanced Load
+0B. Unbalanced Load
+--
+1A. Lift does not move or has moved a bit and stopped.
+0B. Lift makes a sound when moving.
+--
+1A. "Chief Controller, this is BSH station SM Rajan speaking. Lift PL01 repair is now complete and lift is operational."
+0B. "Chief Controller, this is BSH station SM Rajan speaking. We are all good here now."

@@ -1,0 +1,28 @@
+Communicate with the trapped passengers(s) in the lift car through the intercom and assure them that help is on the way.
+Check how many passengers are trapped in the lift and if any passengers are feeling unwell or need medical attention.
+Call 995 to request for an ambulance if a passenger(s) is feeling unwell or needs medical attention.
+Advise the trapped passenger(s) to stay clear of the car door.
+Advise other stations via email about lift breakdown in order to put notices for reduced mobility for passengers travelling to the affected station.
+Call and inform Duty CC and SOM of "Man-trapped" in lift incident. (Note: call can be done via walkie talkie or ePAX).
+Call and inform the Duty EPL team and Maintenance Service contractor that there is a "Man-trapped" in a lift incident. (Note that dialing a specific number is not part of the learning needs).
+Inform fellow colleagues at station via radio, as the PSC may need to be vacated while responding to man trap.
+Bring along the following tools: a) Lift door opener, b) Screw driver, c) Portable Radio (walkie-talkie), d) Car Operating Panel (COP) Key, e) Lift Closet key.						
+Go to the lift area and confirm that the landing and car doors are closed.
+Take note of the lift location by looking through the glass panels of the landing doors.
+Place a barricade on affected lift(s) at all levels to prevent passengers from trying to use the lift.
+Upon returning to affected lift, inform passenger(s) via Intercom that lift rescue process will start and to hold on to the hand rail and stay clear of the door as lift movement will be jerky.
+--
+Open Lift Control Panel.
+Turn Power Main Switch "1S" to "OFF" (downward direction).
+Turn Buzzer switch "PU100" to "ON".
+Use the screw driver to unlatch the lever.
+Pull on the "Lever" to release the lift brakes until the lift reaches the lift landing.
+Once lift reaches landing, turn "OFF" Level Buzzer Switch.
+Close the lift panel cover.
+--
+Use the lift door opener.
+Push the lift doors open.
+When doors open, ask passenger to be mindful of any uneven step that may exist, and extend service recovery (e.g. travel voucher etc.)
+Leave the lift in "Out Of Service" status and place an "Out Of Service" sign in front of the lift.
+Report fault to engineering/maintenance section.
+Remove barricades from all levels, once EPL/Maintenance contractor confirm that lift is now serviceable.

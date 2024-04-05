@@ -1,0 +1,41 @@
+Communicate with the trapped passengers(s) in the lift car through the intercom and assure them that help is on the way.
+Check how many passengers are trapped in the lift and if any passengers are feeling unwell or need medical attention.
+Call 995 to request for an ambulance if a passenger(s) is feeling unwell or needs medical attention.
+Advise the trapped passenger(s) to stay clear of the car door.
+Advise other stations via email about lift breakdown in order to put notices for reduced mobility for passengers travelling to the affected station.
+Call and inform Duty CC and SOM of "Man-trapped" in lift incident. (Note: call can be done via walkie talkie or ePAX).
+Call and inform the Duty EPL team and Maintenance Service contractor that there is a "Man-trapped" in a lift incident. (Note that dialing a specific number is not part of the learning needs).
+Inform fellow colleagues at station via radio, as the PSC may need to be vacated while responding to man trap.
+Bring along the following tools: a) Lift door opener, b) Screw driver, c) Portable Radio (walkie-talkie), d) Car Operating Panel (COP) Key, e) Lift Closet key.
+Go to the lift area and confirm that the landing and car doors are closed.
+Take note of the lift location by looking through the glass panels of the landing doors.
+Place a barricade on affected lift(s) at all levels to prevent passengers from trying to use the lift.
+Proceed to the Lift Machine Room together with another staff.
+--
+Upon reaching the lift motor room, call the lift car using the intercom to inform passenger lift rescue is about to start and to hold on to the hand rail and stay clear of the door as lift movement will be jerky.
+Open the Lift Control Panel door using the attached key.​
+Locate the Power Supply Breaker inside the Lift Control Panel, and switch it OFF.
+Identify the ‘PU 100’ PCB (printed circuit board) and locate the Buzzer switch. Switch on the Buzzer by pushing the switch upward. This will activate the Buzzer when the lift car reaches ±200 mm within the landing.
+[Staff A] Loosen the 4 screws securing the cover of the motor shaft end and turn the cover clockwise to lift it out.
+[Staff A] Take the Motor Turning Handle from the bracket on the wall and place it onto the Motor Shaft End.
+[Staff A] Hand tighten the locating bolt(s) on the Motor Turning Handle into the Motor Shaft End holes.
+[Staff A] Secure the locating bolt by tightening the Lock Nut.
+[Staff B] Remove the Brake Releasing Lever from its bracket on the wall.
+[Staff B] Carefully climb up the shaft and position the brake releasing lever properly onto the Motor Brake. Carefully climb up the shaft and position the brake releasing lever properly onto the Motor Brake. Ensure that the Motor Brake will not be accidentally released by pressing down the Brake Release Lever.
+[Staff B] Ensure that the other staff member is clear of the Motor Turning Handle and in a safe position to perform the rescue operation by standing outside the yellow box marked on the floor.
+[Staff A] Hold the Motor Turning Handle firmly so that it will not turn.
+On the instruction of the Staff A, Staff B should slowly release the brake.
+[Staff A] Turn the handle in the direction that is easier to turn. 
+When the Buzzer sounds, STOP and immediately apply brake.
+[Staff A] Staff on the Motor Turning Handle should check that the paint on the lift wire rope is in line with the marker. White paint indicates lower landing and yellow paint indicates upper landing.
+[Staff B] Remove the Brake Releasing Lever from the Motor Brake and place it back on the wall bracket.
+[Staff A] Remove the Motor turning handle from the motor shaft end.
+Reset the Buzzer switch. Leave the Power Supply Breaker in the OFF position.
+Both staff proceed to the lift landing to perform the Door Opening Procedure 
+--
+Use the lift door opener.
+Push the lift doors open.
+When doors open, ask passenger to be mindful of any uneven step that may exist, and extend service recovery (e.g. travel voucher etc.)
+Leave the lift in "Out Of Service" status and place an "Out Of Service" sign in front of the lift.
+Report fault to engineering/maintenance section.
+Remove barricades from all levels, once EPL/Maintenance contractor confirm that lift is now serviceable.
